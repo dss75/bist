@@ -31,7 +31,7 @@ const Hours = () => {
           </h2>
           <div className="w-24 h-1 bg-warmBrown mx-auto mb-8"></div>
           <p className="text-xl text-deepBrown/80 max-w-3xl mx-auto leading-relaxed">
-            Nous vous accueillons 6 jours sur 7 pour vos pauses et repas
+            Nous vous accueillons 7 jours sur 7 pour vos pauses et repas
           </p>
         </div>
 
