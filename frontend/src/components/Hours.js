@@ -42,7 +42,7 @@ const Hours = () => {
                 <Clock className="w-8 h-8 text-warmBrown" />
               </div>
               <div>
-                <h3 className="text-2xl font-bold text-deepBrown">Ouvert 6j/7</h3>
+                <h3 className="text-2xl font-bold text-deepBrown">Ouvert 7j/7</h3>
                 <p className="text-deepBrown/70">Du lundi au dimanche</p>
               </div>
             </div>
