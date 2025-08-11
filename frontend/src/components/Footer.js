@@ -55,11 +55,7 @@ const Footer = () => {
               </div>
               <div className="flex items-center space-x-2">
                 <Clock className="w-4 h-4 text-warmCream/60" />
-                <span className="text-sm">Mar-Jeu : 06h30-20h00</span>
-              </div>
-              <div className="flex items-center space-x-2">
-                <Clock className="w-4 h-4 text-warmCream/60" />
-                <span className="text-sm">Ven : 06h30-17h00</span>
+                <span className="text-sm">Mar-Ven : 06h30-20h00</span>
               </div>
               <div className="flex items-center space-x-2">
                 <Clock className="w-4 h-4 text-warmCream/60" />
