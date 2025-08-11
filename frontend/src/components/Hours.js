@@ -75,7 +75,7 @@ const Hours = () => {
             <div className="mt-8 p-6 bg-white rounded-xl border-l-4 border-warmBrown">
               <h4 className="font-bold text-deepBrown mb-2">Informations importantes :</h4>
               <ul className="space-y-1 text-deepBrown/80">
-                <li>• Service continu selon les horaires</li>
+                <li>• Ouvert 7 jours sur 7</li>
                 <li>• Réservation recommandée pour les groupes</li>
                 <li>• Fermeture exceptionnelle les jours fériés (nous appeler)</li>
               </ul>
