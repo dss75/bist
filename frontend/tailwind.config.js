@@ -52,7 +52,13 @@ module.exports = {
   				'3': 'hsl(var(--chart-3))',
   				'4': 'hsl(var(--chart-4))',
   				'5': 'hsl(var(--chart-5))'
-  			}
+  			},
+  			// French Bistro custom colors
+  			warmCream: 'hsl(var(--warm-cream))',
+  			lightTan: 'hsl(var(--light-tan))',
+  			warmTan: 'hsl(var(--warm-tan))',
+  			warmBrown: 'hsl(var(--warm-brown))',
+  			deepBrown: 'hsl(var(--deep-brown))'
   		},
   		keyframes: {
   			'accordion-down': {
