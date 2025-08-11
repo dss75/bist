@@ -31,7 +31,7 @@ const Hero = () => {
           <div className="flex flex-col sm:flex-row items-center justify-center space-y-4 sm:space-y-0 sm:space-x-8">
             <div className="flex items-center space-x-2 text-deepBrown">
               <Clock className="w-5 h-5 text-warmBrown" />
-              <span className="font-medium">Ouvert 6 jours/7</span>
+              <span className="font-medium">Ouvert 7 jours/7</span>
             </div>
             <div className="flex items-center space-x-2 text-deepBrown">
               <span className="w-2 h-2 bg-warmBrown rounded-full"></span>
