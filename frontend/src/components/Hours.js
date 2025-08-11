@@ -7,7 +7,7 @@ const Hours = () => {
     { day: "Mardi", hours: "06h30 – 20h00", isToday: false },
     { day: "Mercredi", hours: "06h30 – 20h00", isToday: false },
     { day: "Jeudi", hours: "06h30 – 20h00", isToday: false },
-    { day: "Vendredi", hours: "06h30 – 17h00", isToday: false },
+    { day: "Vendredi", hours: "06h30 – 20h00", isToday: false },
     { day: "Samedi", hours: "07h00 – 13h00", isToday: false },
     { day: "Dimanche", hours: "07h00 – 13h00", isToday: false }
   ];
